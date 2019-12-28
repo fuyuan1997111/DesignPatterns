@@ -43,7 +43,7 @@ int main()
 		_pobject->GetNumber(),
 		_pobject2->GetNumber());
 
-
 	//Object ÂÔ...
+
 	return 0;
 }
